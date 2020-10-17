@@ -1,3 +1,7 @@
+# Description of the project
+
+This project extracts the data from the anitsayac.com using the Ruby libraries and converts it to JSON format.
+
 # README
 
 This README would normally document whatever steps are necessary to get the
